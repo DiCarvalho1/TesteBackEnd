@@ -24,3 +24,4 @@ C:\Users\pablo\OneDrive\Área de Trabalho\Repo VS\Rotina\Rotina\Rotina\bin\Debug
 C:\Users\pablo\OneDrive\Área de Trabalho\Repo VS\Rotina\Rotina\Rotina\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 C:\Users\pablo\OneDrive\Área de Trabalho\Repo VS\Rotina\Rotina\Rotina\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\pablo\OneDrive\Área de Trabalho\Repo VS\Rotina\Rotina\Rotina\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Repo VS\Rotina\Rotina\Rotina\obj\Debug\netcoreapp3.1\Rotina.csprojAssemblyReference.cache

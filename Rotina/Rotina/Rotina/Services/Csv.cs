@@ -31,7 +31,7 @@ namespace Rotina.Services
                     sw.WriteLine($"{idMoeda}; {dataReferencia}; {valorCotacao}");
                 }
 
-                Console.WriteLine($"{DateTime.Now} - Arquivo gravado! Este se encontra no caminho {filePath}\\Resultado_aaaammdd_HHmmss.csv");
+                Console.WriteLine($"{DateTime.Now} - Arquivo gravado! Este se encontra no caminho {filePath}Resultado_aaaammdd_HHmmss.csv");
             }
         }
 
@@ -102,7 +102,7 @@ namespace Rotina.Services
                     }
                 }
 
-                Console.WriteLine($"{DateTime.Now} - O arquivo DadosCotacao.csv foi lido!");
+                Console.WriteLine($"{DateTime.Now} - Valores do arquivo DadosCotacao filtrados e retornados");
                 return cotacaoFiltrada;
             }
         }

@@ -63,3 +63,14 @@ Altere o localhost para o indicado
 Com o projeto API MOEDA em execução, execute o projeto Rotina.
 Caso queira parar a execução do projeto Rotina, aperta as teclas Ctrl + C.
 ```
+
+## Execução do teste
+> Após realizar as alterações necessárias no código, vistas acima basta executar o projeto Api Moeda
+> 
+> Em seguida execute o projeto Rotina
+> 
+> O projeto após alterado estará pronto para ser executado de uma maneira mais rápida
+> 
+> Uma vez que você pode já ter fechado os projetos, para reutilizá-los basta entrar na pasta ApiMoeda, executar o arquivo ApiMoeda.sln e iniciar a aplicação
+> 
+> Entrar na pasta Rotina, executar o arquivo Rotina.sln e iniciar a aplicação
