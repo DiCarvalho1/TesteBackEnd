@@ -74,3 +74,8 @@ Caso queira parar a execução do projeto Rotina, aperta as teclas Ctrl + C.
 > Uma vez que você pode já ter fechado os projetos, para reutilizá-los basta entrar na pasta ApiMoeda, executar o arquivo ApiMoeda.sln e iniciar a aplicação
 > 
 > Entrar na pasta Rotina, executar o arquivo Rotina.sln e iniciar a aplicação
+
+
+- Nota: `Os arquivos de entrada "DadosCotacao.csv" e "DadosMoeda.csv" estão no diretório de execução "Rotina\bin\Debug\netcoreapp3.1\"` O arquivo "Resultado_aaaammdd_HHmmss" gerado após a execução do projeto com um retorno da Api Moedas também ficará nesta pasta.
+
+- Nota: `Evite manter o arquivo "Resultado_aaaammdd_HHmmss" aberto durante a execução da aplicação Rotina. Caso a aplicação tente gravar dados no documento e este se encontre aberto, a aplicação retornará uma exceção` 
