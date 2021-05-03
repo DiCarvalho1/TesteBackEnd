@@ -1,0 +1,18 @@
+--1
+SELECT A.*, B.dsStatus
+FROM tb_processo A
+INNER JOIN tb_status B ON A.idStatus = B.idStatus
+
+--2
+SELECT TOP 1* 
+FROM tb_andamento 
+WHERE YEAR(dtAndamaneto) < '2013'
+ORDER BY dtAndamaneto desc
+
+--3
+SELECT COUNT(DtEncerramento) AS QUANTIDADE
+FROM tb_processo
+
+--4
+SELECT REPLICATE('0', 12 - LEN(idProcesso)) + RTrim(idProcesso)
+FROM tb_processo

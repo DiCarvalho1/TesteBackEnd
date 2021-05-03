@@ -1,5 +1,7 @@
 ## EndPoints do projeto
 
+> Nota: `O projeto foi desenvolvido utilizando o .NET Core 3.1. `
+
 > Nota: `Se certifique de verificar o localhost do projeto. `
 
 > Nota: `Certifique-se de verificar se está executando chamadas HTTPS ou HTTP`
@@ -15,7 +17,7 @@ Uma vez que o localhost pode ser "https://localhost:44337", a chamada para o mé
 ```
 
 ```sh
-Caso esteja realizando chamadas HTTP pelo Postman, pode ser necessário desabilitar o certificado SSL do mesmo. 
+Caso esteja realizando chamadas HTTPS pelo Postman, pode ser necessário desabilitar o certificado SSL do mesmo. 
 Para isso siga os passos: Files - Settings - SSL certificate verification -> off
 ```
 
